@@ -1,6 +1,6 @@
 import React from "react";
-import "./componant.css";
 import { NavLink } from "react-router-dom";
+import "./componants.css";
 export default function Navbar() {
   return (
     <header className="bg-red-600">

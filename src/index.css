@@ -1,1 +1,20 @@
-
+.bg-red-605 {
+  background-color: red;
+  height: 50px;
+  margin: 1rem 0px 30px 0rem;
+  display: flex;
+  align-items: center;
+}
+.name {
+  margin: 0px 0px 0px 1rem;
+}
+.posts {
+  background-color: green;
+  display: flex;
+  width: 20%;
+  margin: 0px 0px 0px 1rem;
+}
+.images-post {
+  height: 200px;
+  background-color: blue;
+}
